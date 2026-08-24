@@ -1,0 +1,328 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Paramshuiying",
+			"GroupId": "ParamGroup2",
+			"Name": "水印"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "ParamGroup2",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "ParamGroup2",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "ParamGroup2",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup2",
+			"Name": "左眼　开闭"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup2",
+			"Name": "右眼　开闭"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup2",
+			"Name": "眼珠 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup2",
+			"Name": "眼珠 Y"
+		},
+		{
+			"Id": "lup",
+			"GroupId": "ParamGroup2",
+			"Name": "抬头张嘴"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup2",
+			"Name": "嘴　张开和闭合"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "ParamGroup2",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamMouseX",
+			"GroupId": "ParamGroup2",
+			"Name": "鼠标X"
+		},
+		{
+			"Id": "ParamMouseY",
+			"GroupId": "ParamGroup2",
+			"Name": "鼠标Y"
+		},
+		{
+			"Id": "ParamMouseRightDown",
+			"GroupId": "ParamGroup2",
+			"Name": "鼠标右键按下"
+		},
+		{
+			"Id": "ParamMouseLeftDown",
+			"GroupId": "ParamGroup2",
+			"Name": "鼠标左键按下"
+		},
+		{
+			"Id": "CatParamStickShowRightHand",
+			"GroupId": "ParamGroup2",
+			"Name": "显示遥感右手"
+		},
+		{
+			"Id": "CatParamStickShowLeftHand",
+			"GroupId": "ParamGroup2",
+			"Name": "显示遥感左手"
+		},
+		{
+			"Id": "CatParamLeftHandDown",
+			"GroupId": "ParamGroup2",
+			"Name": "左手按下"
+		},
+		{
+			"Id": "CatParamRightHandDown",
+			"GroupId": "ParamGroup2",
+			"Name": "右手按下"
+		},
+		{
+			"Id": "CatParamStickRightDown",
+			"GroupId": "ParamGroup2",
+			"Name": "右遥感点亮"
+		},
+		{
+			"Id": "CatParamStickLeftDown",
+			"GroupId": "ParamGroup2",
+			"Name": "左遥感点亮"
+		},
+		{
+			"Id": "CatParamStickRX",
+			"GroupId": "ParamGroup2",
+			"Name": "右遥感X"
+		},
+		{
+			"Id": "CatParamStickRY",
+			"GroupId": "ParamGroup2",
+			"Name": "右遥感Y"
+		},
+		{
+			"Id": "CatParamStickLX",
+			"GroupId": "ParamGroup2",
+			"Name": "左遥感X"
+		},
+		{
+			"Id": "CatParamStickLY",
+			"GroupId": "ParamGroup2",
+			"Name": "左遥感Y"
+		},
+		{
+			"Id": "RE1",
+			"GroupId": "ParamGroup5",
+			"Name": "右眼xy1"
+		},
+		{
+			"Id": "RE2",
+			"GroupId": "ParamGroup5",
+			"Name": "右眼xy2"
+		},
+		{
+			"Id": "LE1",
+			"GroupId": "ParamGroup5",
+			"Name": "左眼xy1"
+		},
+		{
+			"Id": "LE2",
+			"GroupId": "ParamGroup5",
+			"Name": "左眼xy2"
+		},
+		{
+			"Id": "hair1",
+			"GroupId": "ParamGroup5",
+			"Name": "头发1x1"
+		},
+		{
+			"Id": "hair2",
+			"GroupId": "ParamGroup5",
+			"Name": "头发1x2"
+		},
+		{
+			"Id": "hair3",
+			"GroupId": "ParamGroup5",
+			"Name": "头发2x1"
+		},
+		{
+			"Id": "hair4",
+			"GroupId": "ParamGroup5",
+			"Name": "头发2x2"
+		},
+		{
+			"Id": "hair5",
+			"GroupId": "ParamGroup5",
+			"Name": "头发3x1"
+		},
+		{
+			"Id": "hair6",
+			"GroupId": "ParamGroup5",
+			"Name": "头发3x2"
+		},
+		{
+			"Id": "hair10",
+			"GroupId": "ParamGroup5",
+			"Name": "前发y1"
+		},
+		{
+			"Id": "hair11",
+			"GroupId": "ParamGroup5",
+			"Name": "前发y2"
+		},
+		{
+			"Id": "hair14",
+			"GroupId": "ParamGroup5",
+			"Name": "后发y1"
+		},
+		{
+			"Id": "hair15",
+			"GroupId": "ParamGroup5",
+			"Name": "后发y2"
+		},
+		{
+			"Id": "Param15",
+			"GroupId": "ParamGroup5",
+			"Name": "拉伸X"
+		},
+		{
+			"Id": "Param18",
+			"GroupId": "ParamGroup5",
+			"Name": "拉伸Y"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "基础参数"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "物理"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part16",
+			"Name": "水印_00000.png"
+		},
+		{
+			"Id": "Part",
+			"Name": "人物"
+		},
+		{
+			"Id": "Part10",
+			"Name": "键盘"
+		},
+		{
+			"Id": "Part15",
+			"Name": "头部"
+		},
+		{
+			"Id": "Part36",
+			"Name": "身体"
+		},
+		{
+			"Id": "Part34",
+			"Name": "左手"
+		},
+		{
+			"Id": "Part13",
+			"Name": "右手"
+		},
+		{
+			"Id": "Part11",
+			"Name": "鼠标"
+		},
+		{
+			"Id": "Part39",
+			"Name": "菲比玩偶"
+		},
+		{
+			"Id": "Part2",
+			"Name": "帽檐前"
+		},
+		{
+			"Id": "Part3",
+			"Name": "眼睛"
+		},
+		{
+			"Id": "Part14",
+			"Name": "半透明刘海"
+		},
+		{
+			"Id": "Part12",
+			"Name": "前部刘海"
+		},
+		{
+			"Id": "Part7",
+			"Name": "脑袋"
+		},
+		{
+			"Id": "Part8",
+			"Name": "后发"
+		},
+		{
+			"Id": "Part9",
+			"Name": "帽檐后"
+		},
+		{
+			"Id": "Part42",
+			"Name": "左手- 手柄"
+		},
+		{
+			"Id": "Part38",
+			"Name": "右手- 手柄"
+		},
+		{
+			"Id": "Part37",
+			"Name": "右手"
+		},
+		{
+			"Id": "Part19",
+			"Name": "右手臂"
+		},
+		{
+			"Id": "Part35",
+			"Name": "欢呼菲比"
+		},
+		{
+			"Id": "Part4",
+			"Name": "中部"
+		},
+		{
+			"Id": "Part5",
+			"Name": "右眼"
+		},
+		{
+			"Id": "Part6",
+			"Name": "左眼"
+		},
+		{
+			"Id": "Part18",
+			"Name": "右耳朵"
+		},
+		{
+			"Id": "Part17",
+			"Name": "左耳朵"
+		}
+	]
+}
